@@ -7,7 +7,7 @@ from pytz import timezone
 from dateutil import parser
 
 # Load credentials from config.yaml
-with open(r"testcrossposting\config.yaml", "r") as file:
+with open("config.yaml", "r") as file:
     config = yaml.safe_load(file)
 
 # Twitter API credentials
