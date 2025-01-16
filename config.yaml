@@ -1,0 +1,13 @@
+twitter:
+  consumer_key: ""
+  consumer_secret: ""
+  access_token: ""
+  access_token_secret: ""
+
+threads:
+  access_token: ""
+  user_id: ""
+
+bluesky:
+  username: ""  # Replace with your actual Bluesky username
+  password: ""  # Replace with your actual Bluesky password
