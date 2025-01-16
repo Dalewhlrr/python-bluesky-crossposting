@@ -15,12 +15,17 @@ Clone this repository:
 
 
 git clone https://github.com/Dalewhlrr/python-bluesky-crossposting.git
+
 cd <repository_folder>
+
 Install the required dependencies:
 
 
+
 pip install -r requirements.txt
+
 Set up your configuration file:
+
 
 Create a config.yaml file with your API keys and credentials. Follow the structure in the script comments for guidance.
 How It Works
