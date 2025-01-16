@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 
 
-git clone <repository_url>
+git clone https://github.com/Dalewhlrr/python-bluesky-crossposting.git
 cd <repository_folder>
 Install the required dependencies:
 
